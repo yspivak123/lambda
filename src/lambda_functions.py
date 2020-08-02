@@ -11,3 +11,6 @@ def iam_clent():
     return iam
 
 def create_access_policy_for_lambda():
+    s3_access_policy_document = {
+
+    }
